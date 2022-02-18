@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ilya
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Informational systems & technologies ITMO student and backend developer from Russia</h3>
+<h3 align="center">I am Informational systems & technologies student in ITMO, Russia</h3>
 
 - 📫 How to reach me 
 **kroexov@gmail.com**
