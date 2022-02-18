@@ -27,6 +27,13 @@
 
 <h3 align="left">Some GitHub activity information</h3>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kroexov)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kroexov)](https://github.com/kroexov/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kroexov)](https://github.com/kroexov/github-profile-trophy)
+
+[![kroexov's GitHub stats](https://github-readme-stats.vercel.app/api?username=kroexov)](https://github.com/kroexov/github-readme-stats)
 
 <h3 align="left">My LeetCode activity</h3>
 
