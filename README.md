@@ -7,20 +7,18 @@
 
 ### You can also contact me via the social networks
 
-<a href="https://instagram.com/kroexov">
-   <img top="0" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" target="_blank" margin-left="10px">
+<a href="https://t.me/kroexov">
+   <img top="0" src="https://img.shields.io/badge/telegram-%2320232a.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" target="_blank" margin-left="10px">
 </a>
 <a href="https://vk.com/kroexov">
    <img top="0" src="https://img.shields.io/badge/VK-%231572B6.svg?style=for-the-badge&logo=Vk&logoColor=white" alt="VK" target="_blank" margin-left="10px">
 </a>
-<a href="https://t.me/kroexov">
-   <img top="0" src="https://img.shields.io/badge/telegram-%2320232a.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" target="_blank" margin-left="10px">
-</a>
-
 
 <h3 align="left">These are my favourite projects</h3>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=team-5-tutor-project&repo=team-5-account)](https://github.com/team-5-tutor-project/team-5-account)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kroexov&repo=2022-1semester-OOPLabs)](https://github.com/kroexov/2022-1semester-OOPLabs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kroexov&repo=applied-math-2022)](https://github.com/kroexov/applied-math-2022)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kroexov&repo=deadlines-bot-M32031)](https://github.com/kroexov/deadlines-bot-M32031)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kroexov&repo=IS-PROG-2020-2-semester)](https://github.com/kroexov/IS-PROG-2020-2-semester)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kroexov&repo=Algorithms-and-data-structures-2021 )](https://github.com/kroexov/Algorithms-and-data-structures-2021 )
