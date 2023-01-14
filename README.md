@@ -25,7 +25,7 @@
 
 <h3 align="left">Some GitHub activity information</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kroexov)](https://github.com/kroexov/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kroexov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![kroexov's GitHub stats](https://github-readme-stats.vercel.app/api?username=kroexov)](https://github.com/kroexov/github-readme-stats)
 
