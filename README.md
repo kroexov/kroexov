@@ -16,12 +16,14 @@
 
 <h3 align="left">These are my favourite projects</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=team-5-tutor-project&repo=team-5-account)](https://github.com/team-5-tutor-project/team-5-account)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kroexov&repo=2022-1semester-OOPLabs)](https://github.com/kroexov/2022-1semester-OOPLabs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kroexov&repo=deadlines-bot-M32031)](https://github.com/kroexov/deadlines-bot-M32031)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kroexov&repo=Algorithms-and-data-structures-2021 )](https://github.com/kroexov/Algorithms-and-data-structures-2021)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kroexov&repo=applied-math-2022)](https://github.com/kroexov/applied-math-2022)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kroexov&repo=IS-PROG-2020-2-semester)](https://github.com/kroexov/IS-PROG-2020-2-semester)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kroexov&repo=Graphic_project)](https://github.com/kroexov/Graphic_project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kroexov&repo=Web_Project )](https://github.com/kroexov/Web_Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kroexov&repo=uncannyIDEPlugin)](https://github.com/kroexov/uncannyIDEPlugin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kroexov&repo=team-5-account)](https://github.com/team-5-tutor-project/team-5-account)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kroexov&repo=OOPLabs)](https://github.com/kroexov/OOPLabs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kroexov&repo=deadlines-bot)](https://github.com/kroexov/deadlines-bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kroexov&repo=Algorithms-and-data-structures)](https://github.com/kroexov/Algorithms-and-data-structures)
+
 
 <h3 align="left">Some GitHub activity information</h3>
 
