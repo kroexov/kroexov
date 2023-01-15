@@ -5,6 +5,9 @@
 ### 📫 My mail
 **kroexov@gmail.com**
 
+### 💻 [My portfolio](https://drive.google.com/drive/u/0/folders/1WWWlY0mkKMh8zzVSEutX3xAz-wE1nzHw)
+
+
 ### You can also contact me via the social networks
 
 <a href="https://t.me/kroexov">
