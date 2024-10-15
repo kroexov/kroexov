@@ -13,9 +13,6 @@
 <a href="https://t.me/kroexov">
    <img top="0" src="https://img.shields.io/badge/telegram-%2320232a.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" target="_blank" margin-left="10px">
 </a>
-<a href="https://vk.com/kroexov">
-   <img top="0" src="https://img.shields.io/badge/VK-%231572B6.svg?style=for-the-badge&logo=Vk&logoColor=white" alt="VK" target="_blank" margin-left="10px">
-</a>
 
 <h3 align="left">These are my favourite projects</h3>
 
