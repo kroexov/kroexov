@@ -16,13 +16,13 @@
 
 <h3 align="left">These are my favourite projects</h3>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kroexov&repo=ludomania)](https://github.com/kroexov/ludomania)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kroexov&repo=gradeBot)](https://github.com/kroexov/gradeBot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kroexov&repo=Graphic_project)](https://github.com/kroexov/Graphic_project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kroexov&repo=Web_Project )](https://github.com/kroexov/Web_Project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kroexov&repo=uncannyIDEPlugin)](https://github.com/kroexov/uncannyIDEPlugin)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kroexov&repo=team-5-account)](https://github.com/team-5-tutor-project/team-5-account)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kroexov&repo=OOPLabs)](https://github.com/kroexov/OOPLabs)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kroexov&repo=deadlines-bot)](https://github.com/kroexov/deadlines-bot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kroexov&repo=Algorithms-and-data-structures)](https://github.com/kroexov/Algorithms-and-data-structures)
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
