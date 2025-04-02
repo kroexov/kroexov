@@ -18,6 +18,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kroexov&repo=ludomania)](https://github.com/kroexov/ludomania)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kroexov&repo=gradeBot)](https://github.com/kroexov/gradeBot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kroexov&repo=studup)](https://github.com/kroexov/studup)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kroexov&repo=Graphic_project)](https://github.com/kroexov/Graphic_project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kroexov&repo=Web_Project )](https://github.com/kroexov/Web_Project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kroexov&repo=uncannyIDEPlugin)](https://github.com/kroexov/uncannyIDEPlugin)
