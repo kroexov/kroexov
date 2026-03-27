@@ -28,8 +28,16 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## By the way here are some of my statistics 🚀
-![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=kroexov&show_icons=true&theme=tokyonight)
+[![wakatime](https://wakatime.com/badge/user/fa8111e1-e85a-48d6-ac81-3e547599c3d4.svg)](https://wakatime.com/@kroexov)
+
+<img src="https://wakatime.com/share/@kroexov/30a49bf0-6634-4961-935b-d5b8946a6c26.svg" alt="wakaTime stats"/>
+
+<img src="https://wakatime.com/share/@kroexov/13683fc0-8a07-40b8-a3c7-e43d7a32198f.svg" alt="wakaTime stats"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kroexov&theme=tokyonight" alt="mystreak"/>
+
+![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=kroexov&show_icons=true&theme=tokyonight)
+
 ![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kroexov&theme=tokyonight&layout=compact)
 
 🌱 I’m currently working as Golang middle dev and learn Go theory
